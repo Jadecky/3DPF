@@ -3,8 +3,8 @@
 
 ***** Image - 3DPF
 
-## Equal amounts of credit should go to @Statcanime for initial testing / feedback and ideas with this project. Thank you.
-## Also thanks to @.Corvid for the advice on the airflow adjustments from Test V3 to Test V4, @Kyleisah for answering my 1000x CAD questions, and obviously @HartK & the team for Micron+
+Equal amounts of credit should go to @Statcanime for initial testing / feedback and ideas with this project. Thank you.
+Also thanks to @.Corvid for the advice on the airflow adjustments from Test V3 to Test V4, @Kyleisah for answering my 1000x CAD questions, and obviously @HartK & the team for Micron+
 
 During my assembly of the Micron+ I noticed there wasn't a "made to fit" filter.
 
