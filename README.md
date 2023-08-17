@@ -1,7 +1,7 @@
 # 3DPF
 3D Printing Filter, initially designed for PFA Micron+
 
-***** Image - 3DPF
+![3DPF](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/3DPF.png)
 
 ## Thank you
 Equal amounts of credit should go to @Statcanime for initial testing / feedback and ideas with this project. Thank you.
@@ -38,10 +38,18 @@ Current details as of Beta 1:
 -6x3 magnets to attach the 2 bodies together
 -Exhaust grill points upwards rather than to the door, with a taper to assist the air on the way out.
 
-*****Image - Side
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/Sidesshot.png)
 
 - Current iteration has a grill with angled towers in an attempt to direct the air from the fan into the left of the cartridge.
 - Wago mount / simple brackets that allow it to be slid into the extrusions from the front.
+- Designed to fit under the Micron+ bed, much like the necermore does on a Voron V2
+
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/UnderBed.png)
+
+- 2x Cartridge options, one without a handle and 1x with a handle.
+- Handle variant includes built in, snap off supports
+
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/Support.png)
 
 ## BOM
 Qty |Part|Notes
@@ -70,19 +78,19 @@ Qty|Stl
 
 - Insert 4x heatsets into the Cartridge and Plenum for the lid securing screws
 
-*****Image - no lid
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/3DPF_nolid.png)
 
 - Insert 2x heatset inserts into the bottom of the screw tabs on the 5015 fan
 
-*****Image - Fan
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/Fan_Inserts.png)
 
 - You may need to recess them 1-2 mm to allow the screws to sit correctly on the underside of the plenum.
 
-***** Image - Fan Recess
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/Fan_INsert_Recess.png)
 
 - Insert 2x heatsets into the 2x outside tapered edges of the plenum, where the mounting brackets will attatch. 
 
-***** Image - Brackets
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/Mount.png)
 
 - Insert the fan into the plenum body routing the wire up the cable guide and out towards the back, and secure the fan with the 2x M3 FHCS from underneath the plenum.
 
