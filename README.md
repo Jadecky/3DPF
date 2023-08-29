@@ -63,13 +63,16 @@ Qty|STL
 ---|---
 1x|Plenum
 1x|Cartridge [*]
+1x|Cartridge_No_Text [*]
 1x|Cartridge_Handle [*]
+1x|Cartridge_Handle_No_Text [*]
 1x|Plenum Lid
 1x|Cartridge Lid
 1x|Wago Mount [*]
 2x|Compact Mounts (Left & Right) [*]
 
 [*] Choose either/or
+- "_No_Text" has no '3DPF' text on the front face of the cartridge.
 
 
 ## Assembly
