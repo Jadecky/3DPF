@@ -70,6 +70,7 @@ Qty|STL
 1x|Cartridge Lid
 1x|Wago Mount [*]
 2x|Compact Mounts (Left & Right) [*]
+2x|Cartridge Removal Key
 
 [*] Choose either/or
 - "_No_Text" has no '3DPF' text on the front face of the cartridge.
@@ -103,6 +104,18 @@ Qty|STL
 
 - Slide the cartridge & plenum lids into place and secure with M3 BHCS.
 
+
+## Cartridge Removal Key
+
+If using the cartridge without a handle, it can be quite difficult to remove due to the 8x magnets. The removal key slots into the exhaust grill and allows you to easily pull forward on the cartridge.
+
+You can use one in the centre, or 2x, with one on eiter outer edge.
+
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/Removal_Key_Located.png)
+
+When printing, there are some tiny built in supports, shown in grey on the picture below.
+
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/Removal_Key.png)
 
 
 ## This filter is still in testing so any feedback/advice is much appreciated, please direct this to the [kyle_gb channel](https://discord.com/channels/825469421346226226/1132795892810907748) on the Doomcube discord.
