@@ -1,4 +1,21 @@
-# 3DPF
+# Micron Filter
+
+# 3DPF has now been retired, but V2 has been merged with the R1 Update of the Printers For Ants Micron+
+
+# This is the second itteration, that improves on some areas found from the V1 BETA
+
+# All V1 beta files are still available here for those that need them. 
+
+## Changes iclude:
+- New hex pattern for easier printing
+- New Magnet system, consisting of M3x8 SHCS in the plenum, and a new push fit magnet holder in the catridge, to prevent magnets falling out due to the heat from the bed.
+- Printablilty impovements
+- Removed the 2x screws holding in the cartridge lid, and replaced with a chamfer to hold it in place
+
+
+
+
+## 3DPF
 3D Printing Filter, initially designed for PFA Micron+
 
 ![3DPF](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/3DPF.png)
@@ -9,6 +26,7 @@ Equal amounts of credit should go to @staticanime for initial testing / feedback
 Also thanks to: 
 - @Kyleisah for answering my 1000x CAD questions
 - @.Corvid for the advice on the airflow adjustments from Test V3 to Test V4
+- @clee & HartK for the naming convention style (borrowed from BFI)
 - and obviously @HartK & the team for Micron+
 
 ## 3DPF
