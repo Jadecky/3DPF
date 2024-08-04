@@ -13,3 +13,6 @@ All V1 beta files and information are still available [here](https://github.com/
 - Removed the 2x screws holding in the cartridge lid, and replaced with a chamfer to hold it in place
 
 ![Micron_Filter](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/Micron_Filter.png)
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/IMG_6881.jpeg)
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/IMG_6883.jpeg)
+![](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/Screenshot_2024-05-27_at_21.06.31.png)
