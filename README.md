@@ -1,10 +1,10 @@
 # Micron Filter
 
-# 3DPF has now been retired, but V2 has been merged with the R1 Update of the Printers For Ants Micron+
+## 3DPF has now been retired, but V2 has been merged with the R1 Update of the Printers For Ants Micron+
 
-# This is the second itteration, that improves on some areas found from the V1 BETA
+## This is the second itteration, that improves on some areas found from the V1 BETA
 
-# All V1 beta files are still available here for those that need them. 
+## All V1 beta files are still available here for those that need them. 
 
 ## Changes iclude:
 - New hex pattern for easier printing
@@ -15,7 +15,7 @@
 
 
 
-## 3DPF
+## Legacy 3DPF V1 Information
 3D Printing Filter, initially designed for PFA Micron+
 
 ![3DPF](https://github.com/Jadecky/3DPF/blob/main/Beta%201/Images/3DPF.png)
